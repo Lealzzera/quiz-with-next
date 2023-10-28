@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project I've made just to practice my skills with Nextjs, Typescript and TailwindCSS.
+
 
 ## Getting Started
 
